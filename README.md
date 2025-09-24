@@ -20,4 +20,4 @@ Each numbered script represents a step in my learning process.
 ## Learning Approach !!!
 
 No AI, no google searches with copy copy paste, no teacher or tutorials, 
-the only source: *Programming: Principles and Practice Using C++* by Bjarne Stroustrup
+the only source: *Programming: Principles and Practice Using C++* by Bjarne Stroustrup.
