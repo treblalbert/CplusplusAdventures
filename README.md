@@ -19,5 +19,5 @@ Each numbered script represents a step in my learning process.
 
 ## Learning Approach !!!
 
-No AI, no google copy searches and copy paste, no teacher or tutorials, 
+No AI, no google searches with copy copy paste, no teacher or tutorials, 
 the only source: *Programming: Principles and Practice Using C++* by Bjarne Stroustrup
