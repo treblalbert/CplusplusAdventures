@@ -1,10 +1,10 @@
 #include <iostream>
 using namespace std;
 
-main()
+int main()
 {
-    cout << "Good Morning sir, what's your name?\n ";
-    string sir_name;
-    cin >> sir_name;
-    cout << "Aaah! So your name is " << sir_name << " , good to know!";
+    cout << "What is your name? \n ";
+    string name;
+    cin >> name;
+    cout << "Ah so " << name << " is your name huh.\n";
 }
